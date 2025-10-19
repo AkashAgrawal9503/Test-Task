@@ -1,5 +1,5 @@
 print("Hello Akash")
 
 
-def addTwoValues():
-    pass
+def addTwoValues(a,b):
+    return a+b
